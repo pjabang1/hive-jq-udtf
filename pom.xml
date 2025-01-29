@@ -45,7 +45,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.version.major>3</project.version.major>
-		<org.apache.hive-version>2.1.0</org.apache.hive-version>
+		<org.apache.hive-version>4.0.1</org.apache.hive-version>
 		<net.thisptr.jackson-jq-version>0.0.7</net.thisptr.jackson-jq-version>
 	</properties>
 
